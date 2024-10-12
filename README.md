@@ -1,5 +1,3 @@
----
-
 # Nezu Theme Downloader
 
 ## English: [en-US](README.md)
@@ -17,7 +15,7 @@ Nezu Theme Downloaderでは、指定されたテーマパッケージをダウ�
 ```
 /theme_downloader
 ├── downloader.py      # Python スクリプト
-└── README.md              # この README ファイル
+└── README.md          # この README ファイル
 ```
 
 ---
