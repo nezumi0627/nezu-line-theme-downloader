@@ -1,0 +1,40 @@
+# Pythonのキャッシュファイルを除外
+__pycache__/
+*.pyc
+*.pyo
+
+# 仮想環境ディレクトリを除外
+venv/
+env/
+.venv/
+
+# Jupyter Notebookのチェックポイントを除外
+.ipynb_checkpoints/
+
+# IDEやエディタに関連するファイルを除外
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# コンパイルされたバイナリファイルを除外
+*.egg
+*.egg-info/
+dist/
+build/
+
+# ログファイルを除外
+*.log
+
+# 一時ファイルを除外
+*.tmp
+*.temp
+
+# システムファイルを除外
+.DS_Store
+Thumbs.db
+
+# その他、特定のファイルやディレクトリ
+*.env
+*.local
