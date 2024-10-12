@@ -72,8 +72,9 @@ This script runs in a Python environment and downloads the ZIP file of the speci
 
 - **Using the `rich` Library**: The script provides beautiful output if the `rich` library is installed. If `rich` is not available, it falls back to the regular `print`.
 
-- **Download Messages**: When the download starts, a message "📥 Downloading: ..." is displayed, which is replaced by "✅ Saved: ..." after a successful download.
+- **Download Messages**: When the download starts, a message "📥 Downloading: ..." is displayed, which is displayed as "✅ Saved: ..." after a successful download.
 
+If you need any further changes or assistance, just let me know!
 ---
 
 ## ⚠️ Important Notes
