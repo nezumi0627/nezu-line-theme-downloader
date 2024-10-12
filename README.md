@@ -1,6 +1,6 @@
 # Nezu Theme Downloader
 
-## English: [en-US](README.md)
+## English: [en-US](README-en.md)
 
 Nezu Theme Downloaderでは、指定されたテーマパッケージをダウンロードするためのスクリプトを提供しています：
 
