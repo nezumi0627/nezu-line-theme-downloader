@@ -1,5 +1,3 @@
-以下の内容から、PowerShell スクリプトに関連する部分を削除したバージョンを作成しました。
-
 ---
 
 # Nezu Theme Downloader
